@@ -1,13 +1,13 @@
 # Let's Build an iOS App in Rust, part 2
 
 This is the repository accompanying the [Let's Build an iOS App in Rust, part
-2](https://github.com/bignerdranch/rust-ios-app-part-2) blog post.
+2](https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-2/) blog post.
 
 ## Building and Running
 
 After cloning the repo, go into the `rust/data_passing` directory and run
 `make`. This requires you to have a working Rust-to-iOS toolchain; see [this
-blog post](https://github.com/bignerdranch/rust-ios-app-part-1) for
+blog post](https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/) for
 instructions on setting up `multirust` appropriately.  (Don't forget to
 `multirust override ios` this project directory.)
 
